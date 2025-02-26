@@ -130,7 +130,7 @@ nav {
 
 .seeMore {
     font-size: 22px;
-    color: #E02C6D;
+    color: brown;
     font-weight: bold;
     text-align: right;
     margin-top: 40px;
@@ -164,7 +164,7 @@ nav {
     font-size: 15px;
     color: white;
     font-weight: bold;
-    background-color: #E02C6D;
+    background-color: rgb(106, 77, 77);
     padding: 8px 12px;
     border: none;
     margin-top: 20px;
@@ -200,7 +200,7 @@ footer p {
 footer i {
     color: white;
     font-size: 25px;
-    background-color: #796f6f;
+    background-color: green;
     padding: 10px;
     border-radius: 100%;
 }
